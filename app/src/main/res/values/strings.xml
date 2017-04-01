@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="password_forgot">Forgot password</string>
+    <string name="login_button">Login</string>
+    <string name="register_textView">No account yet? Create one</string>
+    <string name="or">Or</string>
+    <string name="enter_fullname">Name</string>
+    <string name="emailid">Email ID</string>
+    <string name="fullname">Name</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="save">Save</string>
+    <string name="already_acc">Already a account? Login</string>
+    <string name="register_Name">Name</string>
+</resources>
